@@ -28,4 +28,5 @@ const cliente2 = new Cliente()
 
 
 
-console.log("\t ",cliente1,"\n \t",cliente2)
+console.log("\t ",cliente1,"\n \t",cliente2);
+
